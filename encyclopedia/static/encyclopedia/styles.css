@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+textarea {
+    height: 80vh;
+    width: 75%;
+}
+
+.main {
+    padding: 12px;
+}
+
+.search {
+    width: 100%;
+    font-size: 14px;
+    line-height: 14px;
+}
+
+.sidebar {
+    background-color: #fdfdfd;
+    height: 100vh;
+    padding: 22px;
+}
+
+.sidebar h2 {
+    margin-top: 4px;
+}
